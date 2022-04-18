@@ -1,0 +1,35 @@
+body {
+  background-color: #13262F;
+  width: 85%;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+th {
+  background-color: #c3c4c7;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+tr:hover {
+  background-color: #043959;
+}
+tr {
+  color: white;
+}
+
+a:link {
+  color: #9FCC2E
+}
+
+a:visited {
+  color: #B0A084;
+}
